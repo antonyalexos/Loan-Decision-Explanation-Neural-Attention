@@ -8,9 +8,9 @@ Also you can read on the paper, that I made some simple preprocessing on the dat
 
 <h3>Overview of the files</h3>
 <ul>
-  <li>main_code.ipynb: this is the main code with the Encoder Decoder with neural attention model.</li>
-  <li>simple_nn.ipynb: this is the file that has the implementation of a simple NN with the data.</li>
-  <li>basic_ml_methods: in this file you can find simple implenetations of some basic ML methods that we used for comparison </li>
+  <li><b>main_code.ipynb:</b> this is the main code with the Encoder Decoder with neural attention model.</li>
+  <li><b>simple_nn.ipynb:</b> this is the file that has the implementation of a simple NN with the data.</li>
+  <li><b>basic_ml_methods:</b> in this file you can find simple implenetations of some basic ML methods that we used for comparison </li>
 </ul>
 
 <h3>Abstract</h3>
