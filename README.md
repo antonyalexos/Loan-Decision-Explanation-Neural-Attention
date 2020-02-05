@@ -1,4 +1,4 @@
-This is the implementation of the paper "Which attributes matter the most for loan origination? A neural attention approach". The paper was published in the Robust AI for Financial Services workshop in NeurIPS 2019.
+This is the implementation of the paper "Which attributes matter the most for loan origination? A neural attention approach". The paper was published in the Robust AI for Financial Services workshop in NeurIPS 2019. You can find the paper [here](https://sites.google.com/view/robust-ai-in-fs-2019/paper-downloads).
 
 
 The data were from Home Mortgage Disclosure Act(HMDA), which you can find [here](https://www.consumerfinance.gov/data-research/hmda/). More specificallly we chose the "HDMA Washington State Home Loans, 2016".
